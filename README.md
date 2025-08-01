@@ -3,7 +3,7 @@
 
 ***The file contains live code and detailed outputs, illustrating several key features of Seaborn:**
 
-**Aesthetic Plots: It highlights Seaborn's built-in themes and color palettes for creating professional-looking visualizations.***
+**Aesthetic Plots: It highlights Seaborn's built-in themes and color palettes for creating professional-looking visualizations.**
 
 **High-Level Interface: It demonstrates how Seaborn simplifies complex visualizations, such as pairplots, heatmaps, and violinplots, which are crucial for multi-variable analysis.**
 
